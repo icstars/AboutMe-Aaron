@@ -9,11 +9,6 @@ console.log(`${name} ${topping}`);
 console.log("string" + 1);
 let num = undefined;
 console.log(Boolean(num));
-let prompt1 = prompt("What is your name?");
-console.log(prompt1);
-let whereDidHeGo = prompt("Where did he go?");
-console.log(`${prompt1} went to the ${whereDidHeGo}`);
-alert(`${prompt1} went to the ${whereDidHeGo}`);
 
 let prompt2 = prompt("What is your name?");
 let prompt3 = prompt("How old are you?");
