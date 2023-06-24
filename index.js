@@ -111,12 +111,12 @@
 
 // Guess the Number
 
-let userGuess = prompt("Guess a number between 1-10");
+// let userGuess = prompt("Guess a number between 1-10");
 
-let randomNumber = Math.floor(Math.random() * 10) + 1;
+// let randomNumber = Math.floor(Math.random() * 10) + 1;
 
-if (randomNumber == userGuess) {
-  alert("Correct", " attempt ", randomNumber);
-} else {
-  alert("Incorrect, answer: " + randomNumber);
-}
+// if (randomNumber == userGuess) {
+//   alert("Correct", " attempt ", randomNumber);
+// } else {
+//   alert("Incorrect, answer: " + randomNumber);
+// }
