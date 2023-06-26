@@ -41,33 +41,33 @@
 //let team = "Aaron,Derrick,Fue,Tati";
 //let teamSplit = team.split(",");
 
-let teamNames = prompt("Enter your team names");
-let teamNamesSplit = teamNames.split(",");
+// let teamNames = prompt("Enter your team names");
+// let teamNamesSplit = teamNames.split(",");
 
-console.log(teamNamesSplit);
+// console.log(teamNamesSplit);
 
-let roles = prompt("Enter your team roles");
-let rolesSplit = roles.split(",");
+// let roles = prompt("Enter your team roles");
+// let rolesSplit = roles.split(",");
 
-console.log(rolesSplit);
-//let roles1 = "PM,BA,QA,TA";
+// console.log(rolesSplit);
+// let roles1 = "PM,BA,QA,TA";
 // for (initializer; condition; iterator++)
 
-//for (let i = 0; i < teamSplit.length; i++) {
+// for (let i = 0; i < teamSplit.length; i++) {
 // will run everytime we add one
-//  console.log(teamSplit[i]);
-//}
+// console.log(teamSplit[i]);
+// }
 
-for (let i = 0; i < rolesSplit.length; i++) {
-  console.log(
-    `Hello, my name is ${teamNamesSplit[i]} and I am the ${rolesSplit[i]}`
-  );
-  {
-  }
-  console.log(rolesSplit[i]);
-}
+// for (let i = 0; i < rolesSplit.length; i++) {
+//   console.log(
+//     `Hello, my name is ${teamNamesSplit[i]} and I am the ${rolesSplit[i]}`
+//   );
+//   {
+//   }
+//   console.log(rolesSplit[i]);
+// }
 
-//console.log(teamSplit);
-//console.log(rolesSplit);
-//for (let i = 0; i < rolesSplit.length; i++) {}
-//console.log(i);
+// //console.log(teamSplit);
+// //console.log(rolesSplit);
+// //for (let i = 0; i < rolesSplit.length; i++) {}
+// //console.log(i);
