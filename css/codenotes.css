@@ -1,0 +1,18 @@
+body {
+  background-color: darkolivegreen;
+  color: whitesmoke;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.title-first-paragraph {
+  color: red;
+}
+
+#first-id {
+  color: purple;
+}
+.main-title {
+  color: yellow;
+}
+/* # for id tags- for single html elements */
+/* . for classes- for multiple html elements */
