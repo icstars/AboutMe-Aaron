@@ -2,6 +2,11 @@ body {
   background-color: darkolivegreen;
   color: whitesmoke;
   font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 .title-first-paragraph {
@@ -16,3 +21,24 @@ body {
 }
 /* # for id tags- for single html elements */
 /* . for classes- for multiple html elements */
+
+div {
+  background: orangered;
+  width: 500px;
+}
+span {
+  color: black;
+  font-size: 150%;
+}
+
+.top-section {
+  background-color: blue;
+}
+
+.bottom-section {
+  background-color: blueviolet;
+}
+.outro {
+  font-size: 125%;
+  font-family: cursive
+}

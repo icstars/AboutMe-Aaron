@@ -1,4 +1,4 @@
-.class1 {
+.center-text {
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -11,9 +11,19 @@ body {
   height: 100%;
   color: rgb(0, 0, 0);
   background-color: lightseagreen;
-  font-family:cursive;
+  font-family: cursive;
   font-size: 15px;
 }
 
-img {border-radius: 50px;
+img {
+  border-radius: 50px;
+}
+
+.bottom-text {
+  color: white;
+  background-image: url("./img/9tailedbeasts");
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 650px;
 }
