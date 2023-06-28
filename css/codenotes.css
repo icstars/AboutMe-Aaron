@@ -40,5 +40,9 @@ span {
 }
 .outro {
   font-size: 125%;
-  font-family: cursive
+  font-family: cursive;
+}
+.highlight {
+  color: aqua;
+  font-size: 50%;
 }

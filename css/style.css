@@ -21,9 +21,10 @@ img {
 
 .bottom-text {
   color: white;
-  background-image: url("./img/9tailedbeasts");
+  background-image: url("../img/narutoangry.gif");
+  background-position: center;
   align-items: center;
   justify-content: center;
-  height: 80px;
-  width: 650px;
+  height: 90px;
+  width: 500px;
 }
