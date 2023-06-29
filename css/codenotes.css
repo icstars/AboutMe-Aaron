@@ -46,3 +46,10 @@ span {
   color: aqua;
   font-size: 50%;
 }
+.box {
+  color: black;
+  background: palevioletred;
+  width: 100%;
+  margin: 100px;
+  border: 10px solid black;
+}

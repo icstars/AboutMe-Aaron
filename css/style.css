@@ -20,9 +20,11 @@ img {
 }
 
 .bottom-text {
-  color: white;
+  color: black;
+  border: 5px solid black;
   background-image: url("../img/narutoangry.gif");
-  background-position: center;
+  background-repeat: no-repeat;
+  background-position: left;
   align-items: center;
   justify-content: center;
   height: 90px;
