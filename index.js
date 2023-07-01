@@ -120,3 +120,26 @@
 // } else {
 //   alert("Incorrect, answer: " + randomNumber);
 // }
+// DOM MANIPULATION
+
+// console.log(document)
+
+// const input = document.getElementById('calender')
+
+// console.log(input)
+
+// const submit = document.getElementsByClassName('submit')
+
+// console.log(submit[0])
+
+// const h1 = document.querySelector('h1')
+
+// console.log(h1)
+
+// //!SECTION EVENT TAGS, CLICK, RESIZE, CHANGE, ETC.
+// // event listeners take in types of events and respond to them
+
+// submit[0].addEventListener('click', function(){
+//     console.log('hello world')
+//     h1.textContent = `You have reserved for ${input.value}`
+// })

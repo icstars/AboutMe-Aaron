@@ -21,15 +21,15 @@
 //     function sum1(num1, num2) {
 //         console.log(num1 + num2)
 //     }
-function iterateThroughTeam(name) {
-  let team = ["Lucycan", "Collin", "Mark", "Cortez"];
-  team.push(name);
-  return team;
-}
+// function iterateThroughTeam(name) {
+//   let team = ["Lucycan", "Collin", "Mark", "Cortez"];
+//   team.push(name);
+//   return team;
+// }
 
-let nm = iterateThroughTeam("1");
-console.log(nm);
+// let nm = iterateThroughTeam("1");
+// console.log(nm);
 
-for (let i = 0; i < nm.length; i++) {
-  console.log(nm[i]);
-}
+// for (let i = 0; i < nm.length; i++) {
+//   console.log(nm[i]);
+// }
