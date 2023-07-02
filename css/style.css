@@ -1,4 +1,4 @@
-.center-text {
+.middle-text {
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -27,6 +27,8 @@ img {
   background-position: left;
   align-items: center;
   justify-content: center;
-  height: 90px;
+  height: 100px;
   width: 500px;
+  margin-bottom: 5%;
 }
+
