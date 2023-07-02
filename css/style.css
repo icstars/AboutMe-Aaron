@@ -1,17 +1,9 @@
-.middle-text {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  align-items: center;
-  justify-content: center;
-}
-
 body {
   width: 100%;
   height: 100%;
   color: rgb(0, 0, 0);
   background-color: lightseagreen;
-  font-family: cursive;
+  font-family: fantasy;
   font-size: 15px;
 }
 
@@ -19,7 +11,7 @@ img {
   border-radius: 50px;
 }
 
-.bottom-text {
+.top-text {
   color: black;
   border: 5px solid black;
   background-image: url("../img/narutoangry.gif");
@@ -32,3 +24,10 @@ img {
   margin-bottom: 5%;
 }
 
+.middle-text {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
