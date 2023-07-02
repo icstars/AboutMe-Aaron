@@ -7,8 +7,16 @@ body {
   font-size: 15px;
 }
 
-img {
+.lake-selfie {
   border-radius: 50px;
+}
+
+.kickflip {
+  border-radius: 100px;
+}
+.dublove {
+  border-radius: 75px;
+  border: 5px solid black;
 }
 
 .top-text {
@@ -31,4 +39,13 @@ img {
   width: 100%;
   align-items: center;
   justify-content: center;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: red;
 }
