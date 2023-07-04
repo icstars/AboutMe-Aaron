@@ -9,6 +9,7 @@ body {
 .header {
   font-style: italic;
   background-image: url("../img/rgbline.gif");
+  background-repeat: repeat;
   margin: auto;
   width: 320px;
 }
