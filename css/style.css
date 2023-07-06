@@ -1,32 +1,70 @@
-.center-text {
+body {
+  width: 100%;
+  height: 100%;
+  color: rgb(0, 0, 0);
+  background-color: aqua;
+  font-family: fantasy;
+  font-size: 15px;
+}
+.header {
+  font-style: italic;
+  border: 5px solid black;
+  background-image: url("../img/rgbline.gif");
+  background-repeat: repeat;
+  margin: auto;
+  width: 320px;
+}
+
+.header3 {
+  font-family: cursive;
+}
+
+.lake-selfie {
+  border-radius: 50px;
+}
+
+.kickflip {
+  border-radius: 100px;
+}
+.dublove {
+  border-radius: 75px;
+  border: 5px solid black;
+}
+
+.top-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: aqua;
+  border: 5px solid black;
+  background-image: url("../img/8bitnintendo.gif");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: auto;
+  height: 150px;
+  width: 500px;
+  margin-bottom: 1%;
+}
+
+.middle-text {
+  font-family: cursive;
   display: flex;
   flex-direction: column;
   width: 100%;
   align-items: center;
   justify-content: center;
 }
-
-body {
-  width: 100%;
-  height: 100%;
-  color: rgb(0, 0, 0);
-  background-color: lightseagreen;
-  font-family: cursive;
-  font-size: 15px;
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: red;
+}
+.notesbutton {
+  background-image: url("../img/rgbline.gif");
 }
 
-img {
-  border-radius: 50px;
-}
-
-.bottom-text {
-  color: black;
-  border: 5px solid black;
-  background-image: url("../img/narutoangry.gif");
-  background-repeat: no-repeat;
-  background-position: left;
-  align-items: center;
-  justify-content: center;
-  height: 90px;
-  width: 500px;
+.list {
 }

@@ -53,3 +53,23 @@ span {
   margin: 100px;
   border: 10px solid black;
 }
+
+h1 {
+  font-size: 50px;
+  color: orangered;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-bottom: 0px;
+}
+a:link {
+  color: red
+  /* regular link tag */
+}
+a:visited {
+  color: black;
+  /* visited links */
+}
+a:hover {
+  color: yellow
+  /* hover effect over links */
+}
